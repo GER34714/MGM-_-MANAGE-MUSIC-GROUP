@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MGM™ | Manage Music Group 🎤</title>
+  <meta name="description" content="MGM™ Manage Music Group – Representación y contratación de artistas de la movida tropical y cuartetera.">
+  <link rel="icon" type="image/png" href="https://iili.io/KHOiff9.md.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#artistas">Artistas</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <header id="inicio">
+    <h1>MGM™ Manage Music Group</h1>
+    <p>🎶 Representante de artistas de la movida tropical y cuartetera.<br>Shows en vivo • Eventos • Fiestas privadas</p>
+    <a href="https://wa.me/5491157343551" target="_blank" class="btn">📲 Consultar Disponibilidad</a>
+  </header>
+
+  <section id="artistas">
+    <h2>Artistas Destacados</h2>
+    <div class="artistas" id="artistasContainer"></div>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>📞 WhatsApp: <a href="https://wa.me/5491157343551" target="_blank" style="color:#25d366;">+54 9 11 5734-3551</a><br>
+    ✉️ mgmcontrataciones@gmail.com</p>
+  </section>
+
+  <footer>
+    © 2025 MGM™ Manage Music Group – Todos los derechos reservados.<br>
+    Desarrollado por Ciborg347™ Studio 💻
+  </footer>
+
+  <a href="https://wa.me/5491157343551" target="_blank" class="whatsapp-float">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
+  </a>
+
+  <!-- Modal dinámico -->
+  <div id="modal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h3 id="modalTitle"></h3>
+      <p id="modalDesc"></p>
+      <iframe id="modalVideo" src="" allowfullscreen></iframe>
+      <a id="modalBtn" href="https://wa.me/5491157343551" target="_blank">📲 Contratar Ahora</a>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
