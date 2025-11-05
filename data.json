@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "La Champion Liga",
+    "img": "https://iili.io/dJwo4e1.jpg",
+    "descripcion": "🔥 Una de las bandas más potentes de la movida tropical argentina. Con ritmo, carisma y más de una década de éxitos.",
+    "video": "https://www.youtube.com/embed/SRkV5EAWsHg"
+  },
+  {
+    "nombre": "Los Ángeles Negros",
+    "img": "https://iili.io/dJwq01J.jpg",
+    "descripcion": "🎶 Leyenda de la música romántica tropical. Con su repertorio eterno siguen llenando escenarios con nostalgia y amor.",
+    "video": "https://www.youtube.com/embed/zAWw2PItzKc"
+  },
+  {
+    "nombre": "Re Piola",
+    "img": "https://iili.io/dJwUuYx.jpg",
+    "descripcion": "💥 Energía, ritmo y presencia escénica. Re Piola trae la nueva generación de la movida tropical.",
+    "video": "https://www.youtube.com/embed/2W06doQY9hw"
+  },
+  {
+    "nombre": "Andy el Cumbiero",
+    "img": "img/andy.jpg",
+    "descripcion": "Artista emergente de la cumbia argentina, con estilo propio y show explosivo.",
+    "video": ""
+  },
+  {
+    "nombre": "Flor de Piedra",
+    "img": "img/flor.jpg",
+    "descripcion": "Histórica banda de cumbia villera que marcó una era.",
+    "video": ""
+  }
+]
